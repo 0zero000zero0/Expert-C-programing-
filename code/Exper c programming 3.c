@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 /*关于结构 */
-struct name // 名字可选（可有可无）  
+struct name // 名字可选（可有可无）
 {
     int data;
     // 各种数据
